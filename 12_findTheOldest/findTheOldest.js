@@ -1,4 +1,4 @@
-const currentYear = new Date().getFullYear;
+const currentYear = new Date().getFullYear();
 
 const findTheOldest = function(array) {
   let oldestPerson = array[0];
